@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2F30qOt9V2tegMVnsqhvvaTJZY8Tm+DZ5VutpqN1iPw9VHZ3q1lCPGt5w7fM/MoeCkdvhHNVajK3QBE0gVktog==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Monster\\source\\repos\\NotesApi\\NotesUI\\NotesUI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Monster\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.18\\microsoft.windowsdesktop.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.18\\microsoft.netcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.18\\microsoft.aspnetcore.app.ref.6.0.18.nupkg.sha512",
+    "C:\\Users\\Monster\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.18\\microsoft.netcore.app.host.win-x64.6.0.18.nupkg.sha512"
+  ],
+  "logs": []
+}

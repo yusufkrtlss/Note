@@ -1,0 +1,17 @@
+C:\Users\Monster\source\repos\NotesApi\Notes.DataAccessLayer\bin\Debug\net6.0\Notes.DataAccessLayer.deps.json
+C:\Users\Monster\source\repos\NotesApi\Notes.DataAccessLayer\bin\Debug\net6.0\Notes.DataAccessLayer.runtimeconfig.json
+C:\Users\Monster\source\repos\NotesApi\Notes.DataAccessLayer\bin\Debug\net6.0\Notes.DataAccessLayer.dll
+C:\Users\Monster\source\repos\NotesApi\Notes.DataAccessLayer\bin\Debug\net6.0\Notes.DataAccessLayer.pdb
+C:\Users\Monster\source\repos\NotesApi\Notes.DataAccessLayer\bin\Debug\net6.0\Notes.EntityLayer.dll
+C:\Users\Monster\source\repos\NotesApi\Notes.DataAccessLayer\bin\Debug\net6.0\Notes.EntityLayer.pdb
+C:\Users\Monster\source\repos\NotesApi\Notes.DataAccessLayer\obj\Debug\net6.0\Notes.DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Monster\source\repos\NotesApi\Notes.DataAccessLayer\obj\Debug\net6.0\Notes.DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster\source\repos\NotesApi\Notes.DataAccessLayer\obj\Debug\net6.0\Notes.DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Monster\source\repos\NotesApi\Notes.DataAccessLayer\obj\Debug\net6.0\Notes.DataAccessLayer.AssemblyInfo.cs
+C:\Users\Monster\source\repos\NotesApi\Notes.DataAccessLayer\obj\Debug\net6.0\Notes.DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Monster\source\repos\NotesApi\Notes.DataAccessLayer\obj\Debug\net6.0\Notes.DataAccessLayer.csproj.CopyComplete
+C:\Users\Monster\source\repos\NotesApi\Notes.DataAccessLayer\obj\Debug\net6.0\Notes.DataAccessLayer.dll
+C:\Users\Monster\source\repos\NotesApi\Notes.DataAccessLayer\obj\Debug\net6.0\refint\Notes.DataAccessLayer.dll
+C:\Users\Monster\source\repos\NotesApi\Notes.DataAccessLayer\obj\Debug\net6.0\Notes.DataAccessLayer.pdb
+C:\Users\Monster\source\repos\NotesApi\Notes.DataAccessLayer\obj\Debug\net6.0\Notes.DataAccessLayer.genruntimeconfig.cache
+C:\Users\Monster\source\repos\NotesApi\Notes.DataAccessLayer\obj\Debug\net6.0\ref\Notes.DataAccessLayer.dll
